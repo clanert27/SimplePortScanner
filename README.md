@@ -14,3 +14,5 @@ HOW TO RUN? `python3`
     
   Example:
   `python3 portscanner.py 192.168.0.148`
+
+![image](https://user-images.githubusercontent.com/64724214/139826007-d6165482-b730-462e-a9d1-0e437bfc4dbe.png)
